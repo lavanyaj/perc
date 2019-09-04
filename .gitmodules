@@ -1,0 +1,6 @@
+[submodule "ns2-simulations"]
+	path = ns2-simulations
+	url = https://github.com/lavanyaj/ns2-simulations.git
+[submodule "waterfilling"]
+	path = waterfilling
+	url = https://github.com/lavanyaj/waterfilling.git
