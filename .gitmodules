@@ -4,3 +4,6 @@
 [submodule "waterfilling"]
 	path = waterfilling
 	url = https://github.com/lavanyaj/waterfilling.git
+[submodule "numerical-simulations"]
+	path = numerical-simulations
+	url = https://github.com/lavanyaj/numerical-simulations.git
