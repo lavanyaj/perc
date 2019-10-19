@@ -7,3 +7,9 @@
 [submodule "numerical-simulations"]
 	path = numerical-simulations
 	url = https://github.com/lavanyaj/numerical-simulations.git
+[submodule "libmoon-perc"]
+	path = libmoon-perc
+	url = https://github.com/sibanez12/libmoon-perc.git
+[submodule "P4-NetFPGA-PERC"]
+	path = P4-NetFPGA-PERC
+	url = https://github.com/sibanez12/P4-NetFPGA-PERC.git
