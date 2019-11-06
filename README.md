@@ -6,7 +6,7 @@ See ns2-simulations submodule.
 ## Numerical simulations (python)
 See numerical-simulations submodule
 
-## Prototype evaluation (P4 and NetFPGA-SUME) (\*\*\*Coming soon\*\*\*)
+## Prototype evaluation (P4 and NetFPGA-SUME)
 See perc-p4 (switch prototype) and libmoon-perc (load generator) submodules. 
 
 ## Questions?
