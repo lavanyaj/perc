@@ -13,3 +13,6 @@
 [submodule "P4-NetFPGA-PERC"]
 	path = P4-NetFPGA-PERC
 	url = https://github.com/sibanez12/P4-NetFPGA-PERC.git
+[submodule "perc-p4"]
+	path = perc-p4
+	url = https://github.com/sibanez12/perc-p4.git
