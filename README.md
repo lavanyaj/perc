@@ -7,7 +7,7 @@ See ns2-simulations submodule.
 See numerical-simulations submodule
 
 ## Prototype evaluation (P4 and NetFPGA-SUME) (\*\*\*Coming soon\*\*\*)
-See P4-NetFPGA-PERC (switch prototype) and libmoon-perc (load generator) submodules. We will make this code public soon.
+See perc-p4 (switch prototype) and libmoon-perc (load generator) submodules. 
 
 ## Questions?
-Please contact the authors, i.e., Lavanya Jose (lavanyaj@cs.stanford.edu) for most questions, and Stephen Ibanez (sibanez@stanford.edu) for questions about the switch prototype (once we make it public).
+Please contact the authors, i.e., Lavanya Jose (lavanyaj@cs.stanford.edu) for most questions, and Stephen Ibanez (sibanez@stanford.edu) for questions about the switch prototype.
